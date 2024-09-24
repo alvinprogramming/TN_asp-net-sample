@@ -1,0 +1,15 @@
+C:\Users\Dondees\source\repos\Sample\Sample.Business\bin\Debug\net8.0\Sample.Business.deps.json
+C:\Users\Dondees\source\repos\Sample\Sample.Business\bin\Debug\net8.0\Sample.Business.dll
+C:\Users\Dondees\source\repos\Sample\Sample.Business\bin\Debug\net8.0\Sample.Business.pdb
+C:\Users\Dondees\source\repos\Sample\Sample.Business\bin\Debug\net8.0\Sample.Data.dll
+C:\Users\Dondees\source\repos\Sample\Sample.Business\bin\Debug\net8.0\Sample.Data.pdb
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.csproj.AssemblyReference.cache
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.AssemblyInfoInputs.cache
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.AssemblyInfo.cs
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.B.18F30F69.Up2Date
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.dll
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\refint\Sample.Business.dll
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\Sample.Business.pdb
+C:\Users\Dondees\source\repos\Sample\Sample.Business\obj\Debug\net8.0\ref\Sample.Business.dll

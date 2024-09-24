@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|solutionrelative:sample.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|solutionrelative:sample.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75726D2-F684-49ED-B067-3282919F2B07}|Sample.Business\\Sample.Business.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.business\\services\\admin\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75726D2-F684-49ED-B067-3282919F2B07}|Sample.Business\\Sample.Business.csproj|solutionrelative:sample.business\\services\\admin\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.webapi\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|solutionrelative:sample.webapi\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75726D2-F684-49ED-B067-3282919F2B07}|Sample.Business\\Sample.Business.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.business\\iservices\\admin\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75726D2-F684-49ED-B067-3282919F2B07}|Sample.Business\\Sample.Business.csproj|solutionrelative:sample.business\\iservices\\admin\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7719E1BB-D0CD-4EA6-9F70-FC05108C2B76}|Sample.Data\\Sample.Data.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.data\\dto\\admin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7719E1BB-D0CD-4EA6-9F70-FC05108C2B76}|Sample.Data\\Sample.Data.csproj|solutionrelative:sample.data\\dto\\admin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7719E1BB-D0CD-4EA6-9F70-FC05108C2B76}|Sample.Data\\Sample.Data.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.data\\dto\\admin\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7719E1BB-D0CD-4EA6-9F70-FC05108C2B76}|Sample.Data\\Sample.Data.csproj|solutionrelative:sample.data\\dto\\admin\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|solutionrelative:sample.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{700C8A2E-5C9E-48F7-97C4-CCC093A8606A}|Sample.WebAPI\\Sample.WebAPI.csproj|solutionrelative:sample.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94965B1C-D2BF-40BE-B36E-D09025EFECC8}|Sample.UnitTest\\Sample.UnitTest.csproj|c:\\users\\ayica\\onedrive\\trainosys\\sample.webapi\\sample.unittest\\admin\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94965B1C-D2BF-40BE-B36E-D09025EFECC8}|Sample.UnitTest\\Sample.UnitTest.csproj|solutionrelative:sample.unittest\\admin\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Business\\Services\\Admin\\UserService.cs",
+              "RelativeDocumentMoniker": "Sample.Business\\Services\\Admin\\UserService.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Business\\Services\\Admin\\UserService.cs",
+              "RelativeToolTip": "Sample.Business\\Services\\Admin\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:08:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Sample.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Sample.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:06:37.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Data\\DTO\\Admin\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Sample.Data\\DTO\\Admin\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Data\\DTO\\Admin\\LoginDTO.cs",
+              "RelativeToolTip": "Sample.Data\\DTO\\Admin\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:05:15.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "RelativeDocumentMoniker": "Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "RelativeToolTip": "Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:00:14.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Sample.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Sample.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T18:22:25.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sample.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Sample.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T18:15:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Sample.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\Program.cs",
+              "RelativeToolTip": "Sample.WebAPI\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:28:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Data\\DTO\\Admin\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Sample.Data\\DTO\\Admin\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.Data\\DTO\\Admin\\UserDTO.cs",
+              "RelativeToolTip": "Sample.Data\\DTO\\Admin\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:18:21.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTest.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.UnitTest\\Admin\\UserTest.cs",
+              "RelativeDocumentMoniker": "Sample.UnitTest\\Admin\\UserTest.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.UnitTest\\Admin\\UserTest.cs",
+              "RelativeToolTip": "Sample.UnitTest\\Admin\\UserTest.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAswAQBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:50:36.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\Controllers\\Admin\\UserController.cs",
+              "RelativeDocumentMoniker": "Sample.WebAPI\\Controllers\\Admin\\UserController.cs",
+              "ToolTip": "C:\\Users\\ayica\\OneDrive\\Trainosys\\Sample.WebAPI\\Sample.WebAPI\\Controllers\\Admin\\UserController.cs",
+              "RelativeToolTip": "Sample.WebAPI\\Controllers\\Admin\\UserController.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAOwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:03:16.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

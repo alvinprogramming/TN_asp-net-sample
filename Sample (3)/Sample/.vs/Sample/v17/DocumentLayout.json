@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dondees\\source\\repos\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1757DD6F-5D3E-4546-97EC-F7929CBD367C}|Sample\\Sample.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample\\readme_main.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1757DD6F-5D3E-4546-97EC-F7929CBD367C}|Sample\\Sample.csproj|solutionrelative:sample\\readme_main.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBF74BD-CAA2-4F02-92AF-BBF40E0F76C6}|Sample.Data\\Sample.Data.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample.data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBF74BD-CAA2-4F02-92AF-BBF40E0F76C6}|Sample.Data\\Sample.Data.csproj|solutionrelative:sample.data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520CEB26-D7E0-4BBE-B4BD-2F9AA9EAD761}|Sample.Business\\Sample.Business.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample.business\\iservices\\admin\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520CEB26-D7E0-4BBE-B4BD-2F9AA9EAD761}|Sample.Business\\Sample.Business.csproj|solutionrelative:sample.business\\iservices\\admin\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520CEB26-D7E0-4BBE-B4BD-2F9AA9EAD761}|Sample.Business\\Sample.Business.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample.business\\services\\admin\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520CEB26-D7E0-4BBE-B4BD-2F9AA9EAD761}|Sample.Business\\Sample.Business.csproj|solutionrelative:sample.business\\services\\admin\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520CEB26-D7E0-4BBE-B4BD-2F9AA9EAD761}|Sample.Business\\Sample.Business.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample.business\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520CEB26-D7E0-4BBE-B4BD-2F9AA9EAD761}|Sample.Business\\Sample.Business.csproj|solutionrelative:sample.business\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1757DD6F-5D3E-4546-97EC-F7929CBD367C}|Sample\\Sample.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1757DD6F-5D3E-4546-97EC-F7929CBD367C}|Sample\\Sample.csproj|solutionrelative:sample\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1757DD6F-5D3E-4546-97EC-F7929CBD367C}|Sample\\Sample.csproj|c:\\users\\dondees\\source\\repos\\sample\\sample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1757DD6F-5D3E-4546-97EC-F7929CBD367C}|Sample\\Sample.csproj|solutionrelative:sample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Data\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Sample.Data\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Data\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Sample.Data\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:13:11.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "RelativeDocumentMoniker": "Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "RelativeToolTip": "Sample.Business\\IServices\\Admin\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:54:15.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Business\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Sample.Business\\IServices\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Business\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "Sample.Business\\IServices\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:32:28.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README_MAIN.md",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample\\README_MAIN.md",
+              "RelativeDocumentMoniker": "Sample\\README_MAIN.md",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample\\README_MAIN.md",
+              "RelativeToolTip": "Sample\\README_MAIN.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-18T03:08:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Business\\Services\\Admin\\UserService.cs",
+              "RelativeDocumentMoniker": "Sample.Business\\Services\\Admin\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample.Business\\Services\\Admin\\UserService.cs",
+              "RelativeToolTip": "Sample.Business\\Services\\Admin\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:56:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample\\Controllers\\Admin\\UserController.cs",
+              "RelativeDocumentMoniker": "Sample\\Controllers\\Admin\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample\\Controllers\\Admin\\UserController.cs",
+              "RelativeToolTip": "Sample\\Controllers\\Admin\\UserController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:14:31.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Sample\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dondees\\source\\repos\\Sample\\Sample\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Sample\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:14:21.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
